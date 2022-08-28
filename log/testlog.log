@@ -1,0 +1,497 @@
+2022-08-27 19:54:51,036 - CucumberForCA -INFO -home started succesfully
+2022-08-27 19:55:00,452 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-27 19:55:00,739 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 07:06:40,212 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:11:28,766 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:11:35,786 - CucumberForCA -INFO -successfully clicked on us page
+2022-08-28 07:12:56,126 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:13:02,289 - CucumberForCA -INFO -successfully clicked on us page
+2022-08-28 07:13:03,099 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 07:13:57,241 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:14:05,110 - CucumberForCA -INFO -successfully clicked on us page
+2022-08-28 07:14:10,881 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 07:15:35,867 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:15:42,151 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 07:17:37,517 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:17:45,314 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 07:18:34,614 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:22:41,080 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:23:56,889 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:25:24,563 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:25:37,074 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 07:26:09,712 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:26:24,532 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 07:29:06,897 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:29:38,581 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 07:32:17,685 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:35:07,973 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:35:37,674 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 07:36:55,251 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:38:13,380 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:44:00,371 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:44:31,183 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 07:46:45,576 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:47:13,176 - CucumberForCA -INFO -successfully clicked on shop
+2022-08-28 07:48:17,941 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:48:44,404 - CucumberForCA -INFO -successfully clicked on shop
+2022-08-28 07:49:39,309 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:50:07,501 - CucumberForCA -INFO -successfully clicked on shop
+2022-08-28 07:50:55,897 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:51:23,203 - CucumberForCA -INFO -successfully clicked on shop
+2022-08-28 07:52:11,484 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:52:39,898 - CucumberForCA -INFO -successfully clicked on shop
+2022-08-28 07:53:35,855 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:55:19,039 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:55:48,488 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 07:56:25,817 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:58:35,437 - CucumberForCA -INFO -home started succesfully
+2022-08-28 07:59:06,049 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 07:59:06,590 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:00:14,509 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:00:28,173 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:02:37,019 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:02:47,629 - CucumberForCA -INFO -successfully getting the data from excel sheet
+2022-08-28 08:02:51,059 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:04:25,161 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:05:56,299 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:09:04,684 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:09:14,591 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:09:56,404 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:10:09,978 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:14:31,627 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:14:41,495 - CucumberForCA -INFO -successfully perform scroll down
+2022-08-28 08:14:52,363 - CucumberForCA -INFO -successfully clicked on machine
+2022-08-28 08:14:52,916 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:16:01,897 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:16:57,509 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:17:04,433 - CucumberForCA -INFO -successfully perform scroll down
+2022-08-28 08:17:11,577 - CucumberForCA -INFO -successfully clicked on machine
+2022-08-28 08:17:11,793 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:18:11,837 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:19:50,489 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:26:12,601 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:28:42,663 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:30:06,430 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:31:22,919 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:31:46,203 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:33:06,017 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:33:23,140 - CucumberForCA -INFO -succesfully clicked on view the report
+2022-08-28 08:33:27,425 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:34:09,606 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:34:13,208 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:39:15,054 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:39:18,807 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 08:39:18,962 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:40:26,714 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:40:30,376 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 08:40:30,517 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:41:53,451 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:41:58,288 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:43:16,429 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:43:22,715 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:44:27,766 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:44:31,592 - CucumberForCA -INFO -successfully clicked on learn more
+2022-08-28 08:44:35,249 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:45:02,151 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:45:37,259 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:47:16,219 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:47:51,171 - CucumberForCA -INFO -successfully clicked on all testcase for downy page
+2022-08-28 08:47:51,393 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:48:51,344 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:49:00,656 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 08:49:00,813 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:49:49,751 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:51:02,926 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:52:38,052 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:54:37,354 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:56:01,806 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:56:05,131 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 08:56:44,831 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:56:48,066 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 08:56:48,213 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:57:18,331 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:57:24,556 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 08:57:25,058 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:57:52,459 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:58:02,914 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 08:58:06,087 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:59:31,770 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:59:37,599 - CucumberForCA -INFO -home started succesfully
+2022-08-28 08:59:56,603 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 08:59:56,807 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 08:59:57,500 - CucumberForCA -INFO -home started succesfully
+2022-08-28 09:00:06,636 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 09:00:09,822 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 09:00:10,546 - CucumberForCA -INFO -home started succesfully
+2022-08-28 09:00:16,682 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 09:00:17,180 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 09:00:17,833 - CucumberForCA -INFO -home started succesfully
+2022-08-28 09:00:27,001 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 09:00:27,161 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 09:00:27,807 - CucumberForCA -INFO -home started succesfully
+2022-08-28 09:01:03,016 - CucumberForCA -INFO -successfully clicked on all testcase for downy page
+2022-08-28 09:01:03,209 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 09:01:03,889 - CucumberForCA -INFO -home started succesfully
+2022-08-28 09:01:07,305 - CucumberForCA -INFO -successfully clicked on learn more
+2022-08-28 09:01:11,222 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 09:01:11,893 - CucumberForCA -INFO -home started succesfully
+2022-08-28 09:01:15,166 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 09:01:15,323 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 09:01:15,962 - CucumberForCA -INFO -home started succesfully
+2022-08-28 09:01:34,079 - CucumberForCA -INFO -succesfully clicked on view the report
+2022-08-28 09:01:39,340 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 09:01:40,014 - CucumberForCA -INFO -home started succesfully
+2022-08-28 09:01:42,239 - CucumberForCA -INFO -home started succesfully
+2022-08-28 09:01:50,446 - CucumberForCA -INFO -successfully perform scroll down
+2022-08-28 09:01:57,537 - CucumberForCA -INFO -successfully clicked on machine
+2022-08-28 09:01:57,724 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 09:01:58,435 - CucumberForCA -INFO -home started succesfully
+2022-08-28 09:02:07,879 - CucumberForCA -INFO -successfully getting the data from excel sheet
+2022-08-28 09:02:11,079 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 09:02:11,672 - CucumberForCA -INFO -home started succesfully
+2022-08-28 09:02:20,571 - CucumberForCA -INFO -successfully clicked on us page
+2022-08-28 09:02:25,910 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 10:04:37,098 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:06:37,962 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:09:21,281 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:10:23,619 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:11:14,772 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:12:07,650 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:12:56,282 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:30:29,379 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:32:36,091 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:33:27,207 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:34:36,897 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:35:16,075 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:37:54,761 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:39:06,658 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:43:50,183 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:49:23,638 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:51:44,708 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:54:14,240 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:54:22,300 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 10:55:04,099 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:55:12,416 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 10:55:12,889 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 10:55:58,156 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:56:07,267 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 10:56:07,709 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 10:57:20,959 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:57:27,274 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 10:57:30,804 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 10:58:26,637 - CucumberForCA -INFO -home started succesfully
+2022-08-28 10:58:31,200 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 10:58:34,716 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:00:26,799 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:04:08,833 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:08:06,169 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:10:13,409 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:13:23,466 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:15:57,389 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:20:30,437 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:20:38,722 - CucumberForCA -INFO -successfully clicke don login button
+2022-08-28 11:20:39,172 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:22:41,309 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:22:47,963 - CucumberForCA -INFO -successfully clicke don login button
+2022-08-28 11:22:51,500 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:24:40,552 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:24:45,762 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 11:24:49,262 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:24:50,317 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:25:19,965 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 11:25:20,457 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:25:21,529 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:29:29,925 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:29:37,720 - CucumberForCA -INFO -successfully clicke don login button
+2022-08-28 11:29:41,242 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:33:18,327 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:33:23,826 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 11:33:27,267 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:33:28,352 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:33:57,099 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 11:33:57,530 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:33:58,632 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:34:10,080 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 11:34:13,556 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:34:14,647 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:34:21,439 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 11:34:21,875 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:34:22,938 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:34:32,423 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 11:34:33,087 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:34:34,116 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:35:50,511 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:35:56,769 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 11:35:57,138 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:35:58,273 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:36:08,987 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 11:36:09,386 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:36:10,441 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:38:42,436 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:38:46,725 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 11:38:50,168 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:38:51,258 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:39:21,444 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 11:39:21,964 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:39:23,025 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:39:34,424 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 11:39:37,844 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:39:38,894 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:39:45,146 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 11:39:46,368 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:39:47,426 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:39:57,986 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 11:39:58,576 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:39:59,629 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:44:42,851 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:45:15,088 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:45:21,869 - CucumberForCA -INFO -successfully clicked on learn more
+2022-08-28 11:45:22,744 - CucumberForCA -INFO -successfully clicked on all testcase for downy page
+2022-08-28 11:45:23,296 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:45:25,252 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:45:26,344 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:45:31,927 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 11:45:32,272 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:45:33,362 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:46:19,185 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:46:22,609 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:46:25,475 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:47:06,973 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:47:11,648 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 11:47:15,092 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:47:16,185 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:47:46,805 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 11:47:47,285 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:47:48,329 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:48:00,159 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 11:48:03,549 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:48:04,612 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:48:12,577 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 11:48:12,944 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:48:14,007 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:48:25,269 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 11:48:26,415 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:48:27,460 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:52:12,491 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:52:20,047 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:52:51,325 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 11:52:51,889 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:52:52,939 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:53:04,462 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 11:53:07,880 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:53:08,944 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:53:16,527 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 11:53:17,010 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:53:18,294 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:53:27,817 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 11:53:28,649 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:53:29,750 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:53:35,652 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:53:41,274 - CucumberForCA -INFO -successfully clicked on learn more
+2022-08-28 11:53:44,722 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:53:45,854 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:53:50,105 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 11:53:50,438 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:53:51,535 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:54:12,627 - CucumberForCA -INFO -succesfully clicked on view the report
+2022-08-28 11:54:18,828 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:54:19,895 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:54:27,100 - CucumberForCA -INFO -successfully clicke don login button
+2022-08-28 11:54:30,725 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:54:31,780 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:54:44,385 - CucumberForCA -INFO -successfully perform scroll down
+2022-08-28 11:54:55,282 - CucumberForCA -INFO -successfully clicked on machine
+2022-08-28 11:54:55,731 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:54:56,907 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:55:12,129 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:55:24,773 - CucumberForCA -INFO -successfully clicked on us page
+2022-08-28 11:55:30,600 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:57:30,898 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:57:34,838 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 11:57:38,241 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:57:39,371 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:57:48,604 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:59:24,162 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:59:30,289 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 11:59:33,710 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 11:59:34,822 - CucumberForCA -INFO -home started succesfully
+2022-08-28 11:59:43,027 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:00:36,254 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:00:39,859 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:01:38,015 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:01:47,269 - CucumberForCA -INFO -successfully clicked on us page
+2022-08-28 12:01:53,077 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:02:33,998 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:03:02,953 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 12:03:03,391 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:03:32,461 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:03:43,700 - CucumberForCA -INFO -successfully getting the data from excel sheet
+2022-08-28 12:03:47,087 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:04:17,345 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:04:27,035 - CucumberForCA -INFO -successfully perform scroll down
+2022-08-28 12:04:36,097 - CucumberForCA -INFO -successfully clicked on machine
+2022-08-28 12:04:36,513 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:05:07,735 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:05:27,667 - CucumberForCA -INFO -successfully clicke don login button
+2022-08-28 12:05:31,108 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:06:03,552 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:06:11,283 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 12:06:14,641 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:06:43,910 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:07:12,054 - CucumberForCA -INFO -succesfully clicked on view the report
+2022-08-28 12:07:18,728 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:07:55,876 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:08:02,548 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 12:08:02,882 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:08:31,501 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:08:58,441 - CucumberForCA -INFO -successfully clicked on learn more
+2022-08-28 12:09:01,889 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:09:41,560 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:12:09,903 - CucumberForCA -INFO -successfully clicked on all testcase for downy page
+2022-08-28 12:12:10,420 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:12:53,326 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:16:29,189 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:18:23,397 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:18:34,477 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 12:18:34,836 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:20:58,253 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:21:02,831 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 12:21:06,261 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:21:07,377 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:21:37,801 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 12:21:38,264 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:21:39,353 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:26:34,363 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:26:38,709 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 12:26:42,181 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:26:43,253 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:27:11,788 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 12:27:12,248 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:27:13,335 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:31:45,275 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:31:50,695 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:32:21,025 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 12:32:21,517 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:32:22,680 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:32:26,588 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:32:34,587 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 12:32:34,974 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:32:36,140 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:32:43,779 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 12:32:44,128 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:32:45,307 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:37:16,055 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:37:20,291 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 12:37:23,692 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:37:24,849 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:37:54,932 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 12:37:55,401 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:37:56,625 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:38:02,187 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:38:09,102 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 12:38:09,544 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:38:10,734 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:38:17,150 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 12:38:17,508 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:38:18,675 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:43:00,283 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:43:03,906 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:43:08,000 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 12:43:08,357 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:43:09,432 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:43:31,265 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:43:35,298 - CucumberForCA -INFO -successfully clicked on learn more
+2022-08-28 12:43:38,694 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:43:39,846 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:43:44,839 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 12:43:45,175 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:43:46,259 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:44:07,886 - CucumberForCA -INFO -succesfully clicked on view the report
+2022-08-28 12:44:14,447 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:44:15,574 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:45:35,856 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:45:44,044 - CucumberForCA -INFO -successfully perform scroll down
+2022-08-28 12:45:53,516 - CucumberForCA -INFO -successfully clicked on machine
+2022-08-28 12:45:53,905 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:45:55,047 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:46:04,903 - CucumberForCA -INFO -successfully getting the data from excel sheet
+2022-08-28 12:46:08,281 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:46:09,376 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:46:17,125 - CucumberForCA -INFO -successfully clicked on us page
+2022-08-28 12:46:22,839 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:46:34,503 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:47:18,296 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:47:26,492 - CucumberForCA -INFO -successfully perform scroll down
+2022-08-28 12:47:35,729 - CucumberForCA -INFO -successfully clicked on machine
+2022-08-28 12:47:36,157 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:47:37,262 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:47:47,199 - CucumberForCA -INFO -successfully getting the data from excel sheet
+2022-08-28 12:47:50,560 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:47:51,622 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:47:59,442 - CucumberForCA -INFO -successfully clicked on us page
+2022-08-28 12:48:05,117 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:48:44,900 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:48:50,418 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 12:48:53,937 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:48:55,075 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:49:23,805 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 12:49:24,291 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:49:25,385 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:50:07,610 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:50:13,989 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 12:50:14,378 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:50:15,498 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:50:21,879 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 12:50:22,247 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:50:23,446 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:50:52,267 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:50:57,472 - CucumberForCA -INFO -successfully clicked on learn more
+2022-08-28 12:51:00,921 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:51:02,050 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:51:06,354 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 12:51:06,667 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:51:07,724 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:51:27,035 - CucumberForCA -INFO -succesfully clicked on view the report
+2022-08-28 12:51:32,674 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:51:33,736 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:51:55,488 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:52:03,952 - CucumberForCA -INFO -successfully perform scroll down
+2022-08-28 12:52:14,002 - CucumberForCA -INFO -successfully clicked on machine
+2022-08-28 12:52:14,478 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:52:15,609 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:52:26,211 - CucumberForCA -INFO -successfully getting the data from excel sheet
+2022-08-28 12:52:29,606 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:52:30,677 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:52:38,583 - CucumberForCA -INFO -successfully clicked on us page
+2022-08-28 12:52:44,411 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:58:21,210 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:58:25,785 - CucumberForCA -INFO -succesfully clicked on signup page
+2022-08-28 12:58:29,234 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:58:30,316 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:58:59,093 - CucumberForCA -INFO -successfully clicked on shop and products
+2022-08-28 12:58:59,532 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:59:00,731 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:59:08,357 - CucumberForCA -INFO -successfully clicked on how to wash clothes
+2022-08-28 12:59:08,725 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:59:09,797 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:59:17,202 - CucumberForCA -INFO -successfully clicked on contactus
+2022-08-28 12:59:17,570 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:59:18,743 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:59:22,659 - CucumberForCA -INFO -successfully clicked on learn more
+2022-08-28 12:59:26,043 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:59:27,105 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:59:30,996 - CucumberForCA -INFO -succesfully clicked on product
+2022-08-28 12:59:31,345 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 12:59:32,377 - CucumberForCA -INFO -home started succesfully
+2022-08-28 12:59:53,288 - CucumberForCA -INFO -succesfully clicked on view the report
+2022-08-28 12:59:59,835 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 13:00:00,940 - CucumberForCA -INFO -home started succesfully
+2022-08-28 13:00:09,074 - CucumberForCA -INFO -successfully perform scroll down
+2022-08-28 13:00:18,828 - CucumberForCA -INFO -successfully clicked on machine
+2022-08-28 13:00:19,243 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 13:00:20,376 - CucumberForCA -INFO -home started succesfully
+2022-08-28 13:00:31,207 - CucumberForCA -INFO -successfully getting the data from excel sheet
+2022-08-28 13:00:34,578 - CucumberForCA -INFO -browser closed successfully
+2022-08-28 13:00:35,644 - CucumberForCA -INFO -home started succesfully
+2022-08-28 13:00:43,421 - CucumberForCA -INFO -successfully clicked on us page
+2022-08-28 13:00:49,037 - CucumberForCA -INFO -browser closed successfully
